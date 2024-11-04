@@ -104,7 +104,7 @@ export const validate_component_options =
 
 			preserveWhitespace: boolean(false),
 
-			runes: boolean(undefined),
+			runes: boolean(false),
 
 			hmr: boolean(false),
 
